@@ -1,0 +1,7 @@
+path: ABSOLUTE PATH TO THIS createrboulder\createrboulder
+train: train  
+val: valid
+test: test
+# Classes
+nc: 2  # number of classes
+names: ['crater','boulder']  # class names
