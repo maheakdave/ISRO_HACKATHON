@@ -1,7 +1,9 @@
-path: ABSOLUTE PATH TO THIS createrboulder\createrboulder
-train: train  
-val: valid
-test: test
-# Classes
-nc: 2  # number of classes
-names: ['crater','boulder']  # class names
+path: PATH\Crater and boulder detection.v2i.yolov9
+train: \train
+val: \valid
+test: \test
+
+nc: 2
+names: 
+  0: boulder 
+  1: crater
